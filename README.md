@@ -1,1 +1,1 @@
-# System.NET
+ Une application qui effectue le suivi du planning de prise de médicaments dans différents fuseaux horaires. L’utilisateur entre son fuseau horaire actuel et son fuseau horaire de destination. Son planning de prise de médicaments est affiché, puis ajusté pour le nouveau fuseau horaire.
